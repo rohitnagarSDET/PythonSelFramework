@@ -23,7 +23,7 @@ class TestHomePage(BaseClass):
 
         alertText = homepage.getSuccessMessage().text
 
-        assert ("Success" in alertText)
+        assert ("Success testing git branching" in alertText)
         self.driver.refresh()
 
     @pytest.fixture(params=HomePageData.test_HomePage_data)

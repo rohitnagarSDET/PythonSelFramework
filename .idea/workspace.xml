@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6b2965-9dfd-4e9e-bd42-5f702b7f5b7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TestData/HomePageData.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/HomePageData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,9 +112,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587712845766" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1587819132184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587819132184" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587709972449">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587709972449" />
+    <state x="319" y="132" key="git4idea.merge.GitPullDialog" timestamp="1587819145081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587819145081" />
   </component>
 </project>
